@@ -1,0 +1,1 @@
+Gephi1 and Gephi2 picture shows here are the connection between nodes in facebook data. The nodes are connected to almost everyone but they are cluested with few groups which are more densly connected. 
