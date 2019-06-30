@@ -1,0 +1,1332 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd">
+  <key attr.name="edge_Weight" attr.type="long" for="edge" id="d0" />
+  <graph edgedefault="undirected">
+    <node id="Marriner, John P." />
+    <node id="Burstein, D." />
+    <node id="Gao, L." />
+    <node id="Wilhite, Brian C." />
+    <node id="Tozzi, Paolo" />
+    <node id="Fan, Xiaohui" />
+    <node id="McKay, Timothy A." />
+    <node id="West, Andrew A." />
+    <node id="Leitherer, Claus" />
+    <node id="Abazajian, Kevork N." />
+    <node id="Smolčić, Vernesa" />
+    <node id="Vogt, Nicole P." />
+    <node id="Bower, Gary" />
+    <node id="Re Fiorentin, Paola" />
+    <node id="Hinshaw, G." />
+    <node id="Ho, Luis C." />
+    <node id="Csabai, István" />
+    <node id="Weiland, J. L." />
+    <node id="Pauls, George" />
+    <node id="Zibetti, Stefano" />
+    <node id="Delgado, Rosa M. González" />
+    <node id="Binney, James" />
+    <node id="Shu, Frank H." />
+    <node id="Shimasaku, Kazu" />
+    <node id="Sibley, Valena C." />
+    <node id="Hyde, Joseph B." />
+    <node id="White, Simon D. M." />
+    <node id="Agüeros, Marcel A." />
+    <node id="Schlafly, Edward F." />
+    <node id="McGehee, Peregrine M." />
+    <node id="Meyer, S. S." />
+    <node id="Harvanek, Michael" />
+    <node id="Riess, Adam G." />
+    <node id="Yoshida, N." />
+    <node id="Strauss, Michael A." />
+    <node id="Pan, Kaike" />
+    <node id="Lépine, Sébastien" />
+    <node id="Krzesinski, Jurek" />
+    <node id="Ghigna, Sebastiano" />
+    <node id="Julian, William H." />
+    <node id="Gates, Evalyn" />
+    <node id="Raddick, M. Jordan" />
+    <node id="The Astrophysical Journal Supplement Series" />
+    <node id="Hennessy, Gregory S." />
+    <node id="Kauffmann, Guinevere" />
+    <node id="Becker, Andrew C." />
+    <node id="Loveday, Jon" />
+    <node id="Charlot, Stéphane" />
+    <node id="Koornneef, Jan" />
+    <node id="York, Donald G." />
+    <node id="Quinn, Thomas" />
+    <node id="Ostriker, Jeremiah P." />
+    <node id="Budavári, Tamás" />
+    <node id="Yanny, Brian" />
+    <node id="Sheldon, Erin" />
+    <node id="Brewington, Howard J." />
+    <node id="Merritt, David" />
+    <node id="Lampeitl, Hubert" />
+    <node id="The Astronomical Journal" />
+    <node id="Adelman-McCarthy, Jennifer K." />
+    <node id="Jester, Sebastian" />
+    <node id="Toomre, A." />
+    <node id="Snedden, Stephanie A." />
+    <node id="Newberg, Heidi Jo" />
+    <node id="Wadadekar, Yogesh" />
+    <node id="Harris, Frederick H." />
+    <node id="Filippenko, Alexei V." />
+    <node id="Navarro, J. F." />
+    <node id="Dressler, Alan" />
+    <node id="Zehavi, Idit" />
+    <node id="Pourbaix, Dimitri" />
+    <node id="Limon, M." />
+    <node id="Tremaine, Scott" />
+    <node id="Governato, Fabio" />
+    <node id="Rogers, Forrest J." />
+    <node id="Kuropatkin, Nikolay" />
+    <node id="Green, Richard" />
+    <node id="Grillmair, Carl" />
+    <node id="Gebhardt, Karl" />
+    <node id="Davenport, James R. A." />
+    <node id="Stadel, Joachim" />
+    <node id="Weaver, Thomas A." />
+    <node id="Berman, Eileen F." />
+    <node id="King, Ivan R." />
+    <node id="de Mello, Duília F." />
+    <node id="Szapudi, István" />
+    <node id="Devost, Daniel" />
+    <node id="Holtzman, Jon A." />
+    <node id="Bender, Ralf" />
+    <node id="Hindsley, Robert B." />
+    <node id="Hogg, David W." />
+    <node id="Richstone, Douglas" />
+    <node id="Landolt, Arlo U." />
+    <node id="Johnson, Jennifer A." />
+    <node id="Allyn Smith, J." />
+    <node id="Munn, Jeffrey A." />
+    <node id="Nash, Thomas" />
+    <node id="Jiang, Linhua" />
+    <node id="Owen, Russell" />
+    <node id="Hoblitt, J." />
+    <node id="Seibert, Mark" />
+    <node id="Stoughton, Chris" />
+    <node id="Robert, Carmelle" />
+    <node id="Thakar, Aniruddha R." />
+    <node id="Kessler, R." />
+    <node id="Nichol, Robert C." />
+    <node id="The Astrophysical Journal" />
+    <node id="Vanden Berk, Daniel E." />
+    <node id="Gänsicke, Boris T." />
+    <node id="Teodoro, Luis F. A." />
+    <node id="Richards, Gordon T." />
+    <node id="Eisenstein, Daniel J." />
+    <node id="Lauer, Tod R." />
+    <node id="Rockosi, Constance M." />
+    <node id="Lebofsky, M. J." />
+    <node id="Spergel, D. N." />
+    <node id="Mullally, Fergal" />
+    <node id="Drake, J. F." />
+    <node id="Jurić, Mario" />
+    <node id="Kron, Richard G." />
+    <node id="Czarapata, Paul C." />
+    <node id="Vogeley, Michael S." />
+    <node id="Voges, Wolfgang" />
+    <node id="Barentine, J. C." />
+    <node id="Bickerton, Steven J." />
+    <node id="Lima, Marcos" />
+    <node id="Allam, Sahar S." />
+    <node id="Simmons, A. E." />
+    <node id="Halpern, M." />
+    <node id="Kennicutt, Robert C., Jr." />
+    <node id="Anderson, Scott F." />
+    <node id="Friedman, Scott D." />
+    <node id="Lizano, Susana" />
+    <node id="Brunner, Robert J." />
+    <node id="Kent, Stephen M." />
+    <node id="Györy, Zsuzsanna" />
+    <node id="Tegmark, Max" />
+    <node id="Calzetti, Daniela" />
+    <node id="Wright, E. L." />
+    <node id="Mandelbaum, Rachel" />
+    <node id="Fukugita, Masataka" />
+    <node id="Gonzalez, Carlos F." />
+    <node id="Belokurov, Vasily" />
+    <node id="Frenk, C. S." />
+    <node id="Zucker, Daniel B." />
+    <node id="Salpeter, Edwin E." />
+    <node id="Bailer-Jones, C. A. L." />
+    <node id="Konishi, Kohki" />
+    <node id="Verde, L." />
+    <node id="Jenkins, A." />
+    <node id="Bennett, C. L." />
+    <node id="Magnier, Eugene" />
+    <node id="Jorgensen, Anders M." />
+    <node id="Rix, Hans-Walter" />
+    <node id="Ichikawa, Takashi" />
+    <node id="Lin, Huan" />
+    <node id="Carr, Michael A." />
+    <node id="Sanders, D. B." />
+    <node id="Page, L." />
+    <node id="Carliles, Samuel" />
+    <node id="Blanton, Michael R." />
+    <node id="Lake, George" />
+    <node id="De Lucia, G." />
+    <node id="Lupton, Robert H." />
+    <node id="Pinkney, Jason" />
+    <node id="Charlot, S." />
+    <node id="Bochanski, John J." />
+    <node id="Bell, Eric F." />
+    <node id="Okamura, Sadanori" />
+    <node id="Peoples, John, Jr." />
+    <node id="Sako, Masao" />
+    <node id="Jarosik, N." />
+    <node id="Lauer, Tod" />
+    <node id="Neilsen, Eric H., Jr." />
+    <node id="Martínez-Delgado, David" />
+    <node id="Suto, Yasushi" />
+    <node id="Weinberg, David H." />
+    <node id="Oravetz, Daniel J." />
+    <node id="Nolta, M. R." />
+    <node id="Cunha, Carlos E." />
+    <node id="Matsubara, Takahiko" />
+    <node id="Iglesias, Carlos A." />
+    <node id="Brinchmann, Jarle" />
+    <node id="Ichikawa, Shin-ichi" />
+    <node id="Tremonti, Christy" />
+    <node id="Heiles, C." />
+    <node id="Vandenberg, Jan" />
+    <node id="Magorrian, John" />
+    <node id="Annis, James" />
+    <node id="Hendry, John S." />
+    <node id="Ridgway, Susan E." />
+    <node id="Morrison, Heather L." />
+    <node id="Bruzual, G." />
+    <node id="Brinkmann, Jon" />
+    <node id="Pope, Adrian C." />
+    <node id="Watters, Shannon" />
+    <node id="Kurucz, R. L." />
+    <node id="Im, Myungshin" />
+    <node id="Kinney, Anne L." />
+    <node id="Kroupa, Pavel" />
+    <node id="Goldreich, Peter" />
+    <node id="Margon, Bruce" />
+    <node id="Meiksin, Avery" />
+    <node id="Blakeslee, John P." />
+    <node id="Seljak, Uroš" />
+    <node id="Harding, Paul" />
+    <node id="Hogan, Craig J." />
+    <node id="Bohlin, R. C." />
+    <node id="Annual Review of Astronomy and Astrophysics" />
+    <node id="Brinkmann, J." />
+    <node id="Szalay, Alexander S." />
+    <node id="Gunn, James E." />
+    <node id="Savage, B. D." />
+    <node id="Evans, N. W." />
+    <node id="Harris, William E." />
+    <node id="Malanushenko, Olena" />
+    <node id="Ferrarese, Laura" />
+    <node id="Anderson, Kurt S. J." />
+    <node id="Tremonti, Christy A." />
+    <node id="Adams, Fred C." />
+    <node id="Nebot, Ada" />
+    <node id="Nieto-Santisteban, Maria" />
+    <node id="Lebedeva, Svetlana" />
+    <node id="Lee, Young Sun" />
+    <node id="Woosley, S. E." />
+    <node id="Gilmore, G." />
+    <node id="Knapp, G. R." />
+    <node id="Castander, Francisco J." />
+    <node id="Szkody, Paula" />
+    <node id="Wollack, E." />
+    <node id="Kormendy, John" />
+    <node id="Moore, Ben" />
+    <node id="Faber, S. M." />
+    <node id="Doi, Mamoru" />
+    <node id="Evans, Michael L." />
+    <node id="Lee, Myung Gyoon" />
+    <node id="Croton, Darren J." />
+    <node id="Newman, Peter R." />
+    <node id="Beers, Timothy C." />
+    <node id="Princeton" />
+    <node id="Hall, Patrick B." />
+    <node id="Armus, Lee" />
+    <node id="Yocum, D. R." />
+    <node id="Loomis, Craig P." />
+    <node id="Kune, Denis Foo" />
+    <node id="Finkbeiner, Douglas P." />
+    <node id="Vidrih, S." />
+    <node id="Storchi-Bergmann, Thaisa" />
+    <node id="Li, Nolan" />
+    <node id="SubbaRao, Mark" />
+    <node id="Carey, Larry N." />
+    <node id="Stebbins, Albert" />
+    <node id="Frieman, Joshua A." />
+    <node id="Schneider, Donald P." />
+    <node id="Berlind, Andreas A." />
+    <node id="Grebel, Eva K." />
+    <node id="Pier, Jeffrey R." />
+    <node id="Sesar, Branimir" />
+    <node id="Bernardi, Mariangela" />
+    <node id="Kleinman, S. J." />
+    <node id="Nitta, Atsuko" />
+    <node id="Kogut, A." />
+    <node id="Cinabro, David" />
+    <node id="Tucker, G. S." />
+    <node id="Purger, Norbert" />
+    <node id="Monthly Notices of the Royal Astronomical Society" />
+    <node id="Percival, Will J." />
+    <node id="French Leger, R." />
+    <node id="Tucker, Douglas L." />
+    <node id="Bizyaev, Dmitry" />
+    <node id="Schreiber, Matthias R." />
+    <node id="Tanaka, Masayuki" />
+    <node id="Springel, Volker" />
+    <node id="Boroski, William N." />
+    <node id="de Haas, Ernst" />
+    <node id="Rieke, G. H." />
+    <node id="Bassett, Bruce A." />
+    <node id="Nicinski, Tom" />
+    <node id="Uomoto, Alan" />
+    <node id="Kauffmann, G." />
+    <node id="Long, Daniel C." />
+    <node id="Peng, Eric W." />
+    <node id="Padmanabhan, Nikhil" />
+    <node id="Gillespie, Bruce" />
+    <node id="Schaerer, Daniel" />
+    <node id="Connolly, A. J." />
+    <node id="Richmond, Michael W." />
+    <node id="Allende Prieto, Carlos" />
+    <node id="Ivezić, Željko" />
+    <node id="Park, Changbom" />
+    <node id="Wonders, Alainna C." />
+    <node id="Sivarani, Thirupathi" />
+    <node id="Dilday, Ben" />
+    <node id="Hawley, Suzanne L." />
+    <node id="Malanushenko, Viktor" />
+    <node id="Bahcall, Neta A." />
+    <node id="Scholz, Ralf-Dieter" />
+    <node id="Schwope, Axel D." />
+    <node id="Goldader, Jeffrey D." />
+    <node id="Mirabel, I. F." />
+    <node id="Schlegel, David J." />
+    <node id="Bohlin, Ralph C." />
+    <node id="Heckman, Timothy M." />
+    <node id="Peiris, H. V." />
+    <node id="Hayes, Jeffrey J. E." />
+    <node id="Price, Paul A." />
+    <node id="Komatsu, E." />
+    <node id="Steinmetz, Matthias" />
+    <node id="An, Deokkeun" />
+    <node id="Smith, Martin C." />
+    <node id="Murphy, Tara" />
+    <node id="Gonzalez, Belinda" />
+    <edge source="Marriner, John P." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Burstein, D." target="The Astronomical Journal">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Gao, L." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Wilhite, Brian C." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Tozzi, Paolo" target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Fan, Xiaohui" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="McKay, Timothy A." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="West, Andrew A." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Leitherer, Claus" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Abazajian, Kevork N." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Smolčić, Vernesa" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Vogt, Nicole P." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Bower, Gary" target="The Astronomical Journal">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="Bower, Gary" target="The Astrophysical Journal">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Re Fiorentin, Paola" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Hinshaw, G." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Ho, Luis C." target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Csabai, István" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Weiland, J. L." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Pauls, George" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Zibetti, Stefano" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Delgado, Rosa M. González" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Binney, James" target="Princeton">
+      <data key="d0">2</data>
+    </edge>
+    <edge source="Shu, Frank H." target="Annual Review of Astronomy and Astrophysics">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Shimasaku, Kazu" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Sibley, Valena C." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Hyde, Joseph B." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="White, Simon D. M." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">696</data>
+    </edge>
+    <edge source="White, Simon D. M." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">75</data>
+    </edge>
+    <edge source="White, Simon D. M." target="The Astrophysical Journal">
+      <data key="d0">168</data>
+    </edge>
+    <edge source="Agüeros, Marcel A." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Schlafly, Edward F." target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="McGehee, Peregrine M." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Meyer, S. S." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Harvanek, Michael" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Riess, Adam G." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Yoshida, N." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Strauss, Michael A." target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Pan, Kaike" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Lépine, Sébastien" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Krzesinski, Jurek" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Ghigna, Sebastiano" target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Julian, William H." target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Gates, Evalyn" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Raddick, M. Jordan" target="The Astrophysical Journal Supplement Series">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Spergel, D. N.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Verde, L.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Peiris, H. V.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Komatsu, E.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Nolta, M. R.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Bennett, C. L.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Halpern, M.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Jarosik, N.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Kogut, A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Limon, M.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Page, L.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Tucker, G. S.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Wollack, E.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Wright, E. L.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Kurucz, R. L.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Adelman-McCarthy, Jennifer K.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Allam, Sahar S.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Allende Prieto, Carlos">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="An, Deokkeun">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Anderson, Kurt S. J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Anderson, Scott F.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Annis, James">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Bahcall, Neta A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Bailer-Jones, C. A. L.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Barentine, J. C.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Bassett, Bruce A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Becker, Andrew C.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Beers, Timothy C.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Bell, Eric F.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Belokurov, Vasily">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Berlind, Andreas A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Berman, Eileen F.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Bernardi, Mariangela">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Bickerton, Steven J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Bizyaev, Dmitry">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Blakeslee, John P.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Blanton, Michael R.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Bochanski, John J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Boroski, William N.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Brewington, Howard J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Brinchmann, Jarle">
+      <data key="d0">696</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Brinkmann, J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Brunner, Robert J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Budavári, Tamás">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Carey, Larry N.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Carliles, Samuel">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Carr, Michael A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Castander, Francisco J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Cinabro, David">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Connolly, A. J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Cunha, Carlos E.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Czarapata, Paul C.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Davenport, James R. A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="de Haas, Ernst">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Dilday, Ben">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Doi, Mamoru">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Eisenstein, Daniel J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Evans, Michael L.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Evans, N. W.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Friedman, Scott D.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Frieman, Joshua A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Fukugita, Masataka">
+      <data key="d0">696</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Gänsicke, Boris T.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Gillespie, Bruce">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Gilmore, G.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Gonzalez, Belinda">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Gonzalez, Carlos F.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Grebel, Eva K.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Gunn, James E.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Györy, Zsuzsanna">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Hall, Patrick B.">
+      <data key="d0">464</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Harding, Paul">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Harris, Frederick H.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Hawley, Suzanne L.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Hayes, Jeffrey J. E.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Heckman, Timothy M.">
+      <data key="d0">696</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Hendry, John S.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Hennessy, Gregory S.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Hindsley, Robert B.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Hoblitt, J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Hogan, Craig J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Hogg, David W.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Holtzman, Jon A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Ichikawa, Shin-ichi">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Ichikawa, Takashi">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Im, Myungshin">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Ivezić, Željko">
+      <data key="d0">464</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Jester, Sebastian">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Jiang, Linhua">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Johnson, Jennifer A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Jorgensen, Anders M.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Jurić, Mario">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Kent, Stephen M.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Kessler, R.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Kleinman, S. J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Knapp, G. R.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Konishi, Kohki">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Kron, Richard G.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Kuropatkin, Nikolay">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Lampeitl, Hubert">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Lebedeva, Svetlana">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Lee, Myung Gyoon">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Lee, Young Sun">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="French Leger, R.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Li, Nolan">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Lima, Marcos">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Lin, Huan">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Long, Daniel C.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Loomis, Craig P.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Loveday, Jon">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Lupton, Robert H.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Magnier, Eugene">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Malanushenko, Olena">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Malanushenko, Viktor">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Mandelbaum, Rachel">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Margon, Bruce">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Martínez-Delgado, David">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Matsubara, Takahiko">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Meiksin, Avery">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Morrison, Heather L.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Mullally, Fergal">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Munn, Jeffrey A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Murphy, Tara">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Nash, Thomas">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Nebot, Ada">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Neilsen, Eric H., Jr.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Newberg, Heidi Jo">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Newman, Peter R.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Nichol, Robert C.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Nicinski, Tom">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Nieto-Santisteban, Maria">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Nitta, Atsuko">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Okamura, Sadanori">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Oravetz, Daniel J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Ostriker, Jeremiah P.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Owen, Russell">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Padmanabhan, Nikhil">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Park, Changbom">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Peoples, John, Jr.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Percival, Will J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Pier, Jeffrey R.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Pope, Adrian C.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Pourbaix, Dimitri">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Price, Paul A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Purger, Norbert">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Quinn, Thomas">
+      <data key="d0">464</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Richards, Gordon T.">
+      <data key="d0">464</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Richmond, Michael W.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Rix, Hans-Walter">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Rockosi, Constance M.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Sako, Masao">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Schlegel, David J.">
+      <data key="d0">464</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Schneider, Donald P.">
+      <data key="d0">464</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Scholz, Ralf-Dieter">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Schreiber, Matthias R.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Schwope, Axel D.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Seljak, Uroš">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Sesar, Branimir">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Sheldon, Erin">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Simmons, A. E.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Sivarani, Thirupathi">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Allyn Smith, J.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Smith, Martin C.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Snedden, Stephanie A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Stebbins, Albert">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Steinmetz, Matthias">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Stoughton, Chris">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="SubbaRao, Mark">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Suto, Yasushi">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Szalay, Alexander S.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Szapudi, István">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Szkody, Paula">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Tanaka, Masayuki">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Tegmark, Max">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Teodoro, Luis F. A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Thakar, Aniruddha R.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Tremonti, Christy A.">
+      <data key="d0">464</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Tucker, Douglas L.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Uomoto, Alan">
+      <data key="d0">464</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Vanden Berk, Daniel E.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Vandenberg, Jan">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Vidrih, S.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Vogeley, Michael S.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Voges, Wolfgang">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Wadadekar, Yogesh">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Watters, Shannon">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Weinberg, David H.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Wonders, Alainna C.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Yanny, Brian">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Yocum, D. R.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="York, Donald G.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Zehavi, Idit">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Zucker, Daniel B.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Woosley, S. E.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Weaver, Thomas A.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Schaerer, Daniel">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Goldader, Jeffrey D.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Robert, Carmelle">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Kune, Denis Foo">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="de Mello, Duília F.">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="The Astrophysical Journal Supplement Series" target="Devost, Daniel">
+      <data key="d0">232</data>
+    </edge>
+    <edge source="Kauffmann, Guinevere" target="The Astrophysical Journal">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Kauffmann, Guinevere" target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="Charlot, Stéphane" target="The Astrophysical Journal">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Charlot, Stéphane" target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="Koornneef, Jan" target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Quinn, Thomas" target="The Astrophysical Journal">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Merritt, David" target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Landolt, Arlo U.">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Harris, William E.">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Magorrian, John">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Tremaine, Scott">
+      <data key="d0">51</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Richstone, Douglas">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Bender, Ralf">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Dressler, Alan">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Faber, S. M.">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Gebhardt, Karl">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Green, Richard">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Grillmair, Carl">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Kormendy, John">
+      <data key="d0">34</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Lauer, Tod">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="Heiles, C.">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="The Astronomical Journal" target="King, Ivan R.">
+      <data key="d0">17</data>
+    </edge>
+    <edge source="Toomre, A." target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Filippenko, Alexei V." target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Navarro, J. F." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Dressler, Alan" target="The Astrophysical Journal">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Tremaine, Scott" target="Princeton">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Tremaine, Scott" target="The Astrophysical Journal">
+      <data key="d0">168</data>
+    </edge>
+    <edge source="Governato, Fabio" target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Rogers, Forrest J." target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Green, Richard" target="The Astrophysical Journal">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Grillmair, Carl" target="The Astrophysical Journal">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Gebhardt, Karl" target="The Astrophysical Journal">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Stadel, Joachim" target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Bender, Ralf" target="The Astrophysical Journal">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Richstone, Douglas" target="The Astrophysical Journal">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="Seibert, Mark" target="The Astrophysical Journal">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Salpeter, Edwin E.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Kennicutt, Robert C., Jr.">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Ferrarese, Laura">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Faber, S. M.">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Kormendy, John">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Lauer, Tod R.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Magorrian, John">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Pinkney, Jason">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Calzetti, Daniela">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Armus, Lee">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Bohlin, Ralph C.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Kinney, Anne L.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Storchi-Bergmann, Thaisa">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Finkbeiner, Douglas P.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Bohlin, R. C.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Savage, B. D.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Drake, J. F.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Rieke, G. H.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Lebofsky, M. J.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Moore, Ben">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Lake, George">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Tremonti, Christy A.">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Heckman, Timothy M.">
+      <data key="d0">168</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Brinchmann, Jarle">
+      <data key="d0">168</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Peng, Eric W.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Schlegel, David J.">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Uomoto, Alan">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Fukugita, Masataka">
+      <data key="d0">168</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Brinkmann, Jon">
+      <data key="d0">112</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Goldreich, Peter">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="The Astrophysical Journal" target="Iglesias, Carlos A.">
+      <data key="d0">56</data>
+    </edge>
+    <edge source="Richards, Gordon T." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="Kennicutt, Robert C., Jr." target="Annual Review of Astronomy and Astrophysics">
+      <data key="d0">12</data>
+    </edge>
+    <edge source="Lizano, Susana" target="Annual Review of Astronomy and Astrophysics">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Fukugita, Masataka" target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">75</data>
+    </edge>
+    <edge source="Frenk, C. S." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Jenkins, A." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Sanders, D. B." target="Annual Review of Astronomy and Astrophysics">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="De Lucia, G." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Charlot, S." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Brinchmann, Jarle" target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">75</data>
+    </edge>
+    <edge source="Tremonti, Christy" target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Ridgway, Susan E." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Bruzual, G." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Brinkmann, Jon" target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="Kroupa, Pavel" target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Annual Review of Astronomy and Astrophysics" target="Adams, Fred C.">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Annual Review of Astronomy and Astrophysics" target="Mirabel, I. F.">
+      <data key="d0">6</data>
+    </edge>
+    <edge source="Croton, Darren J." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Hall, Patrick B." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="Schneider, Donald P." target="Monthly Notices of the Royal Astronomical Society">
+      <data key="d0">50</data>
+    </edge>
+    <edge source="Monthly Notices of the Royal Astronomical Society" target="Springel, Volker">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Monthly Notices of the Royal Astronomical Society" target="Kauffmann, G.">
+      <data key="d0">25</data>
+    </edge>
+    <edge source="Monthly Notices of the Royal Astronomical Society" target="Heckman, Timothy M.">
+      <data key="d0">75</data>
+    </edge>
+    <edge source="Monthly Notices of the Royal Astronomical Society" target="Ivezić, Željko">
+      <data key="d0">50</data>
+    </edge>
+  </graph>
+</graphml>
